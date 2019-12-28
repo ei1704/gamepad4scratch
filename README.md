@@ -1,4 +1,4 @@
-THis is test.
+Hello World
 
 # gamepad4scratch  ゲームパッド フォー スクラッチ([日本語はこちら](./README-ja.md))
 This project is to add gamepad / joystick support for Scratch 1.4 mainly on Raspberry Pi. Python / pygame is in between the gamepad and Scratch to transfer information via Scratch-RSP or Scratch Remote Sensors Protocol.
